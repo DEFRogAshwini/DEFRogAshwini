@@ -1,5 +1,7 @@
 > _This frogument is about a frog. The "wini" in the frog's name is pronounced like in Winnie the Pooh. Please contact the frog for further details._
 
+![](https://github.com/DEFRogAshwini/DEFRogAshwini/blob/main/media/frog_defrog.webp)
+
 # My role
 
 Senior Data Engineer/Analyst, Data Science & Engineering Team[^fn1]
